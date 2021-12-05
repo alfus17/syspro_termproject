@@ -9,15 +9,15 @@
 ### 터미널을 이용하여 파일들을 관리하기가 힘들어서 생각해내게되었습니다.
 
 ## 명령어
-## r = rename file
+### r = rename file
 
-## m = move file
+### m = move file
 
-## d = delete file
+### d = delete file
 
-## c =copy file
+### c =copy file
 
-## enter = select
+### enter = select
 ## 동작예시
 ![readme1](https://user-images.githubusercontent.com/84339929/144763062-f77e8e36-e46c-4aa4-a602-ec9c7ca3e9ce.PNG)
 ![image](https://user-images.githubusercontent.com/84339929/144763136-7dc306f5-bec2-4fff-8ce2-eaf6818f9ea7.png)
