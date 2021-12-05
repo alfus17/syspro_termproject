@@ -18,10 +18,8 @@ d = delete file
 c =copy file
 
 enter = select
-
+## 동작예시
 ![readme1](https://user-images.githubusercontent.com/84339929/144763062-f77e8e36-e46c-4aa4-a602-ec9c7ca3e9ce.PNG)
-
-
 ![image](https://user-images.githubusercontent.com/84339929/144763136-7dc306f5-bec2-4fff-8ce2-eaf6818f9ea7.png)
 ![image](https://user-images.githubusercontent.com/84339929/144763149-86358975-7a62-4b48-9dd7-68fee06ff0aa.png)
 
