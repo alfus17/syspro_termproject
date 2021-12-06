@@ -8,6 +8,9 @@
 ## 프로젝트 소개 : Ncurses를 이용한 파일 관리자
 ### 터미널을 이용하여 파일들을 관리하기가 힘들어서 생각해내게되었습니다.
 
+## 디이어그램
+![image](https://user-images.githubusercontent.com/84339929/144779894-05396b33-ced0-4183-90d5-72f2d0eedbf1.png)
+
 
 
 ## 명령어
